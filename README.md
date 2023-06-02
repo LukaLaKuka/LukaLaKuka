@@ -8,7 +8,7 @@
         Junior Full Stack Web Developer with experience on Laravel 8, Livewire, Javascript,
         etc. Interested in specialization on Backend, Python and IA's. Proactive and
         motivated to learn grow both personally and professionally.
-        
+        <br>
         I am interested in contributing and mutually benefiting with my colleagues and
         friends. Therefore, I am open to constructive proposals and opinions, aiming to
         generate a sense of comfort and trust in the people around me
