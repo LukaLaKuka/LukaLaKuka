@@ -15,7 +15,6 @@
     </p>
     <br>
     <h2>Technologies</h2>
-    <br>
     <h3 style="text-align: center;">Languages</h3>
     <hr>
     <div style="display: flex; justify-content: center; align-items: center; gap: 5px; flex-wrap: wrap;">
