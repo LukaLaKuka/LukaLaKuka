@@ -21,16 +21,16 @@
         <img src="./assets/MySQL.png" style="width: 10%;" title="MySQL"/>
         <img src="./assets/js.png" style="width: 10%; border-radius: 0.5rem;" title="JavaScript"/>
         <img src="./assets/ts.png" style="width: 10%;" title="TypeScript"/>
-        <img src="./assets/java.png" style="width: 10%;" title="Java"/>
+        <img src="./assets/Java.png" style="width: 10%;" title="Java"/>
     </div>
     <br>
     <h3 style="text-align: center;">Frameworks & Libraries</h3>
     <hr>
     <div style="display: flex; justify-content: center; align-items: center; gap: 5px; flex-wrap: wrap;">
         <img src="./assets/laravel.png" style="width: 10%;" title="Laravel"/>
-        <img src="./assets/livewire.png" style="width: 10%;" title="Livewire"/>
-        <img src="./assets/angular.png" style="width: 10%;" title="Angular"/>
-        <img src="./assets/bootstrap.png" style="width: 10%;" title="Bootstrap 5"/>
+        <img src="./assets/Livewire.png" style="width: 10%;" title="Livewire"/>
+        <img src="./assets/Angular.png" style="width: 10%;" title="Angular"/>
+        <img src="./assets/Bootstrap.png" style="width: 10%;" title="Bootstrap 5"/>
     </div>
     <br>
     <h2>Let's get in touch!</h2>
