@@ -5,8 +5,13 @@
     </div>
     <h2>About Me</h2>
     <p>
-        Desarrollador Web Full Stack Junior con experiencia en Laravel 8, Livewire,
-        Javascript, etc. Interés en la especialización en Backend, Python e IA's Proactivo y con motivación de aprendizaje y crecimiento tanto personal cómo profesional.
+        Junior Full Stack Web Developer with experience on Laravel 8, Livewire, Javascript,
+        etc. Interested in specialization on Backend, Python and IA's. Proactive and
+        motivated to learn grow both personally and professionally.
+        
+        I am interested in contributing and mutually benefiting with my colleagues and
+        friends. Therefore, I am open to constructive proposals and opinions, aiming to
+        generate a sense of comfort and trust in the people around me
     </p>
     <br>
     <h2>Technologies</h2>
@@ -53,11 +58,11 @@
             </a>
         </div>
         <div style="display: flex; align-items: center;">
-            <a href="./assets/Spanish CV.pdf" style="display: flex; align-items: center; gap: 5px;">
+            <a href="./assets/cv/Spanish CV.pdf" style="display: flex; align-items: center; gap: 5px;">
                 <img src="./assets/cv.png" style="width: 10%;" title="Laravel"/>
                 <p>Spanish CV</p>
             </a>
-            <a href="./assets/English CV.pdf" style="display: flex; align-items: center; gap: 5px;">
+            <a href="./assets/cv/English CV.pdf" style="display: flex; align-items: center; gap: 5px;">
                 <img src="./assets/cv.png" style="width: 10%;" title="Laravel"/>
                 <p>English CV</p>
             </a>
