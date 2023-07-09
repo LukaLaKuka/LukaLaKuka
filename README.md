@@ -50,12 +50,12 @@
             <img src="./assets/mail.png" style="width: 10%;" title="Laravel"/>
             <p>tomasnahuelantela@gmail.com</p>
         </div>
-        <div style="display: flex; align-items: center; gap: 5px; flex-wrap: wrap;">
+        <!--<div style="display: flex; align-items: center; gap: 5px; flex-wrap: wrap;">
             <a href="https://tomhuel.xyz" style="display: flex; align-items: center; gap: 5px;">
                 <img src="./assets/website.png" style="width: 10%;" title="Laravel"/>
                 <p>My Own Website: tomhuel.xyz</p>
             </a>
-        </div>
+        </div>-->
         <div style="display: flex; align-items: center;">
             <a href="./assets/cv/Spanish CV.pdf" style="display: flex; align-items: center; gap: 5px;">
                 <img src="./assets/cv.png" style="width: 10%;" title="Laravel"/>
