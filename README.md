@@ -5,13 +5,23 @@
     </div>
     <h2>About Me</h2>
     <p>
-        Junior Full Stack Web Developer with experience on Laravel 8, Livewire, Javascript,
-        etc. Interested in specialization on Backend, Python and IA's. Proactive and
-        motivated to learn grow both personally and professionally.
-        <br>
-        I am interested in contributing and mutually benefiting with my colleagues and
-        friends. Therefore, I am open to constructive proposals and opinions, aiming to
-        generate a sense of comfort and trust in the people around me
+    👨‍💻 Como desarrollador web Full Stack Junior estoy listo y motivado para comenzar a aplicar profesionalmente mis conocimientos 💪💪
+    <br>
+    <br>
+    Con proactividad, actitud positiva, disciplina, organización y trabajo en equipo 🤝, me enfrento a los retos con ganas e ilusión, procurando obtener los mejores resultados posibles 🙌
+    <br>
+    <br>
+    La curiosidad y el gusto por lo innovador me impulsan a mantenerme en constante formación y aprendizaje 🔎
+    <br>
+    <br>
+    <br>
+    👨‍💻 As a Junior Full Stack web developer, I am ready and motivated to start applying my knowledge professionally 💪💪
+    <br>
+    <br>
+    With proactivity, a positive attitude, discipline, organization, and teamwork 🤝, I face challenges with enthusiasm and excitement, striving to achieve the best possible results 🙌
+    <br>
+    <br>
+    Curiosity and a love for innovation drive me to constantly seek further education and learning 🔎
     </p>
     <br>
     <h2>Technologies</h2>
