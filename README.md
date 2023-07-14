@@ -44,6 +44,7 @@
         <img src="./assets/laravel.png" style="width: 10%;" title="Laravel"/>
         <img src="./assets/Livewire.png" style="width: 10%;" title="Livewire"/>
         <img src="./assets/Angular.png" style="width: 10%;" title="Angular"/>
+        <img src="./assets/React.png" style="width: 10%;" title="React JS"/>
         <img src="./assets/Bootstrap.png" style="width: 10%;" title="Bootstrap 5"/>
     </div>
     <br>
@@ -71,10 +72,10 @@
                 <img src="./assets/cv.png" style="width: 10%;" title="Laravel"/>
                 <p>Spanish CV</p>
             </a>
-            <a href="./assets/cv/English CV.pdf" style="display: flex; align-items: center; gap: 5px;">
+            <!--<a href="./assets/cv/English CV.pdf" style="display: flex; align-items: center; gap: 5px;">
                 <img src="./assets/cv.png" style="width: 10%;" title="Laravel"/>
                 <p>English CV</p>
-            </a>
+            </a>-->
         </div>
     </div>
 </div>
