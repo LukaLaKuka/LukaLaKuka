@@ -59,19 +59,19 @@
     <br>
     <h2>Let's get in touch!</h2>
     <hr>
-    <div style="display: flex; flex-direction: column; gap: 5px; flex-wrap: wrap;">
-        <div style="display: flex; align-items: center">
+    <div style="display: flex; gap: 5px;">
+        <div style="display: flex; align-items: center;">
             <a href="https://www.linkedin.com/in/tom%C3%A1s-nahuel-antela-rizzo-729149258/" style="display: flex; align-items: center; gap: 5px; flex-direction: column">
-                <img src="./assets/linkedin.png" style="display:flex;width: 50%" title="Laravel"/>
+                <img src="./assets/linkedin.png" style="width: 10%"/>
                 <p>Tomás Nahuel Antela Rizzo</p>
             </a>
             <a href="./assets/cv/Spanish CV.pdf" style="display: flex; align-items: center; gap: 5px; flex-direction: column">
-                <img src="./assets/cv.png" style="display:flex;width: 50%" title="Laravel"/>
-                <p>Tomás Nahuel Antela Rizzo</p>
+                <img src="./assets/cv.png" style="width: 10%"/>
+                <p>CV Español</p>
             </a>
             <a href="./assets/cv/English CV.pdf" style="display: flex; align-items: center; gap: 5px; flex-direction: column">
-                <img src="./assets/cv.png" style="display:flex;width: 50%" title="Laravel"/>
-                <p>Tomás Nahuel Antela Rizzo</p>
+                <img src="./assets/cv.png" style="width: 10%"/>
+                <p>English CV</p>
             </a>
         </div>
     </div>
