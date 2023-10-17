@@ -2,7 +2,7 @@
     <div align="center">
         <h1>Hi! I'm Tomhuel</h1>
     </div>
-    <h2>About Me</h2>
+    <!--<h2>About Me</h2>-->
     <p>
     👨‍💻 Como desarrollador web Full Stack Junior estoy listo y motivado para comenzar a aplicar profesionalmente mis conocimientos 💪💪
     <br>
@@ -65,11 +65,11 @@
                 <img src="./assets/linkedin.png" style="width: 10%"/>
                 <p>Tomás Nahuel Antela Rizzo</p>
             </a>
-            <a href="./assets/cv/Spanish CV.pdf" style="display: flex; align-items: center; gap: 5px; flex-direction: column">
+            <a href="./assets/cv/CV Español.pdf" style="display: flex; align-items: center; gap: 5px; flex-direction: column">
                 <img src="./assets/cv.png" style="width: 10%"/>
                 <p>CV Español</p>
             </a>
-            <a href="./assets/cv/English CV.pdf" style="display: flex; align-items: center; gap: 5px; flex-direction: column">
+            <a href="./assets/cv/CV English.pdf" style="display: flex; align-items: center; gap: 5px; flex-direction: column">
                 <img src="./assets/cv.png" style="width: 10%"/>
                 <p>English CV</p>
             </a>
