@@ -47,25 +47,4 @@
         <img src="./assets/technologies/debian.svg" style="width: 10%; margin-bottom: 1rem;" title="Debian & Ubuntu"/>
         <img src="./assets/technologies/xml.svg" style="width: 10%; margin-bottom: 1rem;" title="XML"/>
     </div>
-    <br>
-    <h2>Let's get in touch!</h2>
-    <hr>
-    <div style="display: flex; align-items: center; gap: 1rem;">
-        <a href="https://tomhuel.github.io" style="display: flex; align-items: center; gap: 5px; flex-direction: column">
-            <img src="./assets/home.svg"/>
-            <p style="color: white;">Mi página web</p>
-            </a>
-        <a href="https://www.linkedin.com/in/tomhuel" style="display: flex; align-items: center; gap: 5px; flex-direction: column">
-            <img src="./assets/rss/linkedin.svg"/>
-            <p>LinkedIn</p>
-        </a>
-        <a href="https://tomhuel.github.io/spanish_cv.pdf" style="display: flex; align-items: center; gap: 5px; flex-direction: column">
-            <img src="./assets/countries/spain.svg"/>
-            <p>CV Español</p>
-        </a>
-        <a href="https://tomhuel.github.io/english_cv.pdf" style="display: flex; align-items: center; gap: 5px; flex-direction: column">
-            <img src="./assets/countries/uk.svg"/>
-            <p>English CV</p>
-        </a>
-    </div>
 </div>
