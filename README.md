@@ -15,10 +15,10 @@
     <br>
     <h2>🎨 Stats</h2>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=tomhuel&show_icons=true&theme=gruvbox_light&title_color=604F41&hide_border=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=lukalakuka&show_icons=true&theme=gruvbox_light&title_color=604F41&hide_border=true">
     </div>
     <div align='center'>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomhuel&layout=pie&theme=gruvbox_light&exclude_repo=dpl22-23">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukalakuka&layout=pie&theme=gruvbox_light&exclude_repo=dpl22-23">
     </div>
     <h2>💻 Technologies</h2>
     <div style="display: flex; justify-content: center; align-items: center; gap: 5px; flex-wrap: wrap;">
