@@ -1,5 +1,4 @@
 <div align="justify">
-    <br>
     <h2>🦀 Hey there!</h2>
     Welcome to my GitHub profile. If it's your first time here, let me introduce myself:
     <br>
