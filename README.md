@@ -28,6 +28,7 @@
         <img src="./assets/technologies/webpack.svg" style="width: 8%; margin-bottom: 1rem;" title="Webpack"/>
         <img src="./assets/technologies/nestjs.svg" style="width: 8%; margin-bottom: 1rem;" title="NestJS"/>
         <img src="./assets/technologies/prisma.svg" style="width: 8%; margin-bottom: 1rem;" title="Prisma ORM"/>
+        <img src="./assets/technologies/jwt.svg" style="width: 8%; margin-bottom: 1rem;" title="JWT"/>
         <img src="./assets/technologies/jest.svg" style="width: 8%; margin-bottom: 1rem;" title="Jest"/>
         <img src="./assets/technologies/json.svg" style="width: 8%; margin-bottom: 1rem;" title="json"/>
         <img src="./assets/technologies/react.svg" style="width: 8%; margin-bottom: 1rem;" title="ReactJS"/>
