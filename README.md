@@ -10,12 +10,13 @@
     Happy coding! 🦎
     <br>
     <h2>🐞 Stats</h2>
-    <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; gap: 1.5rem;">
+    <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=lukalakuka&show_icons=true&title_color=bf0020&hide_border=true&bg_color=0d1117&icon_color=bf0020&text_color=ffffff">
+        <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukalakuka&show_icons=true&title_color=bf0020&hide_border=true&bg_color=0d1117&icon_color=bf0020&text_color=ffffff&layout=pie&exclude_repo=dpl22-23">
     </div>
     <h2>💻 Technologies</h2>
-    <div style="display: flex; justify-content: center; align-items: center; gap: 5px; flex-wrap: wrap;">
+    <div style="display: flex; justify-content: center; align-items: center; gap: 5px; flex-wrap: wrap;" align="center">
         <img src="./assets/technologies/html.svg" style="width: 8%; margin-bottom: 1rem;" title="HTML 5"/>
         <img src="./assets/technologies/css.svg" style="width: 8%; margin-bottom: 1rem;" title="CSS 3"/>
         <img src="./assets/technologies/javascript.svg" style="width: 8%; margin-bottom: 1rem;" title="JavaScript"/>
@@ -38,7 +39,7 @@
         <img src="./assets/technologies/composer.svg" style="width: 8%; margin-bottom: 1rem;" title="Composer"/>
         <img src="./assets/technologies/mysql.svg" style="width: 8%; margin-bottom: 1rem;" title="MySQL"/>
         <img src="./assets/technologies/sqlite.svg" style="width: 8%; margin-bottom: 1rem;" title="SQLite"/>
-        <img src="./assets/technologies/sass.svg" style="width: 8%; margin-bottom: 1rem;" title="Sass"/>F
+        <img src="./assets/technologies/sass.svg" style="width: 8%; margin-bottom: 1rem;" title="Sass"/>
         <img src="./assets/technologies/bootstrap.svg" style="width: 8%; margin-bottom: 1rem;" title="Bootstrap 5"/>
         <img src="./assets/technologies/tailwind.svg" style="width: 8%; margin-bottom: 1rem;" title="Tailwind CSS"/>
         <img src="./assets/technologies/laravel.svg" style="width: 8%; margin-bottom: 1rem;" title="Laravel"/>
