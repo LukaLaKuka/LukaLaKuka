@@ -48,7 +48,7 @@
     <h3>Package Manager</h3>
     <div style="display: flex; justify-content: start; align-items: center; gap: 5px; flex-wrap: wrap;">
         <img src="https://skillicons.dev/icons?i=npm" style="width: 8%; margin-bottom: 1rem;" title="Node Package Modules"/>
-        <img src="https://skillicons.dev/icons?i=composer" style="width: 8%; margin-bottom: 1rem;" title="Composer"/>
+        <img src="./assets/technologies/json.svg" style="width: 8%; margin-bottom: 1rem;" title="Composer"/>
     </div>
     <h3>Databases</h3>
     <div style="display: flex; justify-content: start; align-items: center; gap: 5px; flex-wrap: wrap;">
