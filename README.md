@@ -17,55 +17,55 @@
     <h2>💻 Technologies</h2>
     <h3>Languages</h3>
     <div style="display: flex; justify-content: start; align-items: center; gap: 5px; flex-wrap: wrap;">
-    <img src="./assets/technologies/html.svg" style="width: 8%; margin-bottom: 1rem;" title="HTML 5"/>
-        <img src="./assets/technologies/css.svg" style="width: 8%; margin-bottom: 1rem;" title="CSS 3"/>
-        <img src="./assets/technologies/javascript.svg" style="width: 8%; margin-bottom: 1rem;" title="JavaScript"/>
-        <img src="./assets/technologies/typescript.svg" style="width: 8%; margin-bottom: 1rem;" title="TypeScript"/>
-        <img src="./assets/technologies/php.svg" style="width: 8%; margin-bottom: 1rem;" title="PHP"/>
-        <img src="./assets/technologies/sass.svg" style="width: 8%; margin-bottom: 1rem;" title="Sass"/>
-        <img src="./assets/technologies/java.svg" style="width: 8%; margin-bottom: 1rem;" title="Java"/>
+    <img src="https://skillicons.dev/icons?i=html" style="width: 8%; margin-bottom: 1rem;" title="HTML 5"/>
+        <img src="https://skillicons.dev/icons?i=css" style="width: 8%; margin-bottom: 1rem;" title="CSS 3"/>
+        <img src="https://skillicons.dev/icons?i=js" style="width: 8%; margin-bottom: 1rem;" title="JavaScript"/>
+        <img src="https://skillicons.dev/icons?i=ts" style="width: 8%; margin-bottom: 1rem;" title="TypeScript"/>
+        <img src="https://skillicons.dev/icons?i=php" style="width: 8%; margin-bottom: 1rem;" title="PHP"/>
+        <img src="https://skillicons.dev/icons?i=sass" style="width: 8%; margin-bottom: 1rem;" title="Sass"/>
+        <img src="https://skillicons.dev/icons?i=java" style="width: 8%; margin-bottom: 1rem;" title="Java"/>
     </div>
     <h3>Libraries</h3>
     <div style="display: flex; justify-content: start; align-items: center; gap: 5px; flex-wrap: wrap;">
-        <img src="./assets/technologies/react.svg" style="width: 8%; margin-bottom: 1rem;" title="ReactJS"/>
-        <img src="./assets/technologies/vite.svg" style="width: 8%; margin-bottom: 1rem;" title="Vite"/>
-        <img src="./assets/technologies/webpack.svg" style="width: 8%; margin-bottom: 1rem;" title="Webpack"/>
+        <img src="https://skillicons.dev/icons?i=react" style="width: 8%; margin-bottom: 1rem;" title="ReactJS"/>
+        <img src="https://skillicons.dev/icons?i=vite" style="width: 8%; margin-bottom: 1rem;" title="Vite"/>
+        <img src="https://skillicons.dev/icons?i=webpack" style="width: 8%; margin-bottom: 1rem;" title="Webpack"/>
         <img src="./assets/technologies/jwt.svg" style="width: 8%; margin-bottom: 1rem;" title="JWT"/>
         <img src="./assets/technologies/livewire.svg" style="width: 8%; margin-bottom: 1rem;" title="Livewire"/>
     </div>
     <h3>Frameworks</h3>
     <div style="display: flex; justify-content: start; align-items: center; gap: 5px; flex-wrap: wrap;">
-        <img src="./assets/technologies/next.svg" style="width: 8%; margin-bottom: 1rem;" title="NextJS"/>
-        <img src="./assets/technologies/nestjs.svg" style="width: 8%; margin-bottom: 1rem;" title="NestJS"/>
-        <img src="./assets/technologies/bootstrap.svg" style="width: 8%; margin-bottom: 1rem;" title="Bootstrap 5"/>
-        <img src="./assets/technologies/tailwind.svg" style="width: 8%; margin-bottom: 1rem;" title="Tailwind CSS"/>
-        <img src="./assets/technologies/laravel.svg" style="width: 8%; margin-bottom: 1rem;" title="Laravel"/>
+        <img src="https://skillicons.dev/icons?i=nextjs" style="width: 8%; margin-bottom: 1rem;" title="NextJS"/>
+        <img src="https://skillicons.dev/icons?i=nestjs" style="width: 8%; margin-bottom: 1rem;" title="NestJS"/>
+        <img src="https://skillicons.dev/icons?i=bootstrap" style="width: 8%; margin-bottom: 1rem;" title="Bootstrap 5"/>
+        <img src="https://skillicons.dev/icons?i=tailwindcss" style="width: 8%; margin-bottom: 1rem;" title="Tailwind CSS"/>
+        <img src="https://skillicons.dev/icons?i=laravel" style="width: 8%; margin-bottom: 1rem;" title="Laravel"/>
     </div>
     <h3>Runtimes</h3>
     <div style="display: flex; justify-content: start; align-items: center; gap: 5px; flex-wrap: wrap;">
-        <img src="./assets/technologies/node.svg" style="width: 8%; margin-bottom: 1rem;" title="NodeJS"/>
+        <img src="https://skillicons.dev/icons?i=nodejs" style="width: 8%; margin-bottom: 1rem;" title="NodeJS"/>
     </div>
     <h3>Package Manager</h3>
     <div style="display: flex; justify-content: start; align-items: center; gap: 5px; flex-wrap: wrap;">
-        <img src="./assets/technologies/npm.svg" style="width: 8%; margin-bottom: 1rem;" title="Node Package Modules"/>
+        <img src="https://skillicons.dev/icons?i=npm" style="width: 8%; margin-bottom: 1rem;" title="Node Package Modules"/>
         <img src="./assets/technologies/composer.svg" style="width: 8%; margin-bottom: 1rem;" title="Composer"/>
     </div>
     <h3>Databases</h3>
     <div style="display: flex; justify-content: start; align-items: center; gap: 5px; flex-wrap: wrap;">
-        <img src="./assets/technologies/mysql.svg" style="width: 8%; margin-bottom: 1rem;" title="MySQL"/>
-        <img src="./assets/technologies/sqlite.svg" style="width: 8%; margin-bottom: 1rem;" title="SQLite"/>
-        <img src="./assets/technologies/prisma.svg" style="width: 8%; margin-bottom: 1rem;" title="Prisma ORM"/>
+        <img src="https://skillicons.dev/icons?i=mysql" style="width: 8%; margin-bottom: 1rem;" title="MySQL"/>
+        <img src="https://skillicons.dev/icons?i=sqlite" style="width: 8%; margin-bottom: 1rem;" title="SQLite"/>
+        <img src="https://skillicons.dev/icons?i=prisma" style="width: 8%; margin-bottom: 1rem;" title="Prisma ORM"/>
     </div>
     <h3>Testing</h3>
     <div style="display: flex; justify-content: start; align-items: center; gap: 5px; flex-wrap: wrap;">
-        <img src="./assets/technologies/jest.svg" style="width: 8%; margin-bottom: 1rem;" title="Jest"/>
+        <img src="https://skillicons.dev/icons?i=jest" style="width: 8%; margin-bottom: 1rem;" title="Jest"/>
     </div>
     <h3>Misc</h3>
     <div style="display: flex; justify-content: start; align-items: center; gap: 5px; flex-wrap: wrap;">
-        <img src="./assets/technologies/git.svg" style="width: 8%; margin-bottom: 1rem;" title="git"/>
-        <img src="./assets/technologies/github.svg" style="width: 8%; margin-bottom: 1rem;" title="GitHub"/>
-        <img src="./assets/technologies/debian.svg" style="width: 8%; margin-bottom: 1rem;" title="Debian & Ubuntu"/>
-        <img src="./assets/technologies/docker.svg" style="width: 8%; margin-bottom: 1rem;" title="Docker"/>
+        <img src="https://skillicons.dev/icons?i=git" style="width: 8%; margin-bottom: 1rem;" title="git"/>
+        <img src="https://skillicons.dev/icons?i=github" style="width: 8%; margin-bottom: 1rem;" title="GitHub"/>
+        <img src="https://skillicons.dev/icons?i=linux" style="width: 8%; margin-bottom: 1rem;" title="Debian & Ubuntu"/>
+        <img src="https://skillicons.dev/icons?i=docker" style="width: 8%; margin-bottom: 1rem;" title="Docker"/>
         <img src="./assets/technologies/json.svg" style="width: 8%; margin-bottom: 1rem;" title="json"/>
         <img src="./assets/technologies/xml.svg" style="width: 8%; margin-bottom: 1rem;" title="XML"/>
     </div>
