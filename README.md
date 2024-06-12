@@ -43,7 +43,7 @@
     </div>
     <h3>Runtimes</h3>
     <div style="display: flex; justify-content: start; align-items: center; gap: 5px; flex-wrap: wrap;">
-        <img src="https://skillicons.dev/icons?i=node" style="width: 8%; margin-bottom: 1rem;" title="NodeJS"/>
+        <img src="https://skillicons.dev/icons?i=nodejs" style="width: 8%; margin-bottom: 1rem;" title="NodeJS"/>
     </div>
     <h3>Package Manager</h3>
     <div style="display: flex; justify-content: start; align-items: center; gap: 5px; flex-wrap: wrap;">
