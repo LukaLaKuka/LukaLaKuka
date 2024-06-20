@@ -10,9 +10,9 @@
     <br>
     <h2>🐞 Stats</h2>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=lukalakuka&show_icons=true&title_color=bf0020&hide_border=true&bg_color=0d1117&icon_color=bf0020&text_color=ffffff">
+        <img src="https://github-readme-stats-five-beta-84.vercel.app/api?username=lukalakuka&show_icons=true&title_color=bf0020&hide_border=true&bg_color=0d1117&icon_color=bf0020&text_color=ffffff">
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukalakuka&show_icons=true&title_color=bf0020&hide_border=true&bg_color=0d1117&icon_color=bf0020&text_color=f8f2f2&layout=pie">
+        <img src="https://github-readme-stats-five-beta-84.vercel.app/api/top-langs/?username=lukalakuka&show_icons=true&title_color=bf0020&hide_border=true&bg_color=0d1117&icon_color=bf0020&text_color=f8f2f2&layout=pie">
     </div>
     <h2>💻 Technologies</h2>
     <h3>Languages</h3>
