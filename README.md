@@ -6,11 +6,11 @@
 - Username: `Luka`
 - Realname: `Tomás Nahuel`
 - Interests: `[
-    Coding, 
+    Coding,
     Videogames,
     Guild Wars 2,
-    Skating, 
-    Rubik's Cubes
+    Skating,
+  Rubik's Cubes
 ];`
 - Things that i want to learn: `[
     C,
